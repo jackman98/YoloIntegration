@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data_for_detector/road_signs.names</file>
+        <file>data_for_detector/road-signs-obj-tiny.cfg</file>
+        <file>data_for_detector/road-signs-obj-tiny.weights</file>
+    </qresource>
+</RCC>
